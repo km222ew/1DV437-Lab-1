@@ -36,7 +36,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Controller\MasterController.cs" />
-    <Compile Include="Game1.cs" />
     <Compile Include="Model\Ball.cs" />
     <Compile Include="Model\BallSimulation.cs" />
     <Compile Include="Program.cs" />
